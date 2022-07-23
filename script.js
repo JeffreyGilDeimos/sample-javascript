@@ -1,5 +1,4 @@
 let result;
-let name;
 let question= "What is your name?"; 
 let inputvalue;
 
